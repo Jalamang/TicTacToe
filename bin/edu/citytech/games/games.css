@@ -1,0 +1,40 @@
+ .title-label, .custom-label{
+	-fx-font-size:30px;
+	-fx-alignment:Center;
+}
+
+.custom-label{
+	-fx-border-color:black;
+	-fx-min-width:110px;
+	-fx-min-height:110;
+	 -fx-text-fill: blue; 
+	-fx-border-insets: .55px;
+
+}
+
+
+
+.button{
+-fx-font-size:30px;
+	-fx-alignment:Center;
+
+}
+
+
+.titleBackgroud{
+-fx-background-color:green;
+
+}
+.resetButton{
+-fx-background-color:orange;
+
+}
+
+
+.winning-square {
+    -fx-text-fill: red;
+    -fx-background-color: radial-gradient( radius 100%, white, lightyellow, lawngreen);
+}
+
+
+
